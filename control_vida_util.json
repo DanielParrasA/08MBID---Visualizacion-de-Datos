@@ -1,0 +1,78 @@
+{  "grafico": [
+    {
+      "atributo": "Aspecto",
+      "fecha": "02/05/2023",
+      "valor": 3.33333333333333
+    },
+    {
+      "atributo": "Aspecto",
+      "fecha": "05/05/2023",
+      "valor": 4
+    },
+    {
+      "atributo": "Aspecto",
+      "fecha": "09/05/2023",
+      "valor": 5
+    },
+    {
+      "atributo": "Olor",
+      "fecha": "02/05/2023",
+      "valor": 4.33333333333333
+    },
+    {
+      "atributo": "Olor",
+      "fecha": "05/05/2023",
+      "valor": 3.66666666666667
+    },
+    {
+      "atributo": "Olor",
+      "fecha": "09/05/2023",
+      "valor": 5
+    },
+    {
+      "atributo": "Sabor",
+      "fecha": "02/05/2023",
+      "valor": 4.66666666666667
+    },
+    {
+      "atributo": "Sabor",
+      "fecha": "05/05/2023",
+      "valor": 5
+    },
+    {
+      "atributo": "Sabor",
+      "fecha": "09/05/2023",
+      "valor": 6
+    },
+    {
+      "atributo": "Textura",
+      "fecha": "02/05/2023",
+      "valor": 4.66666666666667
+    },
+    {
+      "atributo": "Textura",
+      "fecha": "05/05/2023",
+      "valor": 5.33333333333333
+    },
+    {
+      "atributo": "Textura",
+      "fecha": "09/05/2023",
+      "valor": 6
+    },
+    {
+      "atributo": "Valoración global",
+      "fecha": "02/05/2023",
+      "valor": 5
+    },
+    {
+      "atributo": "Valoración global",
+      "fecha": "05/05/2023",
+      "valor": 6
+    },
+    {
+      "atributo": "Valoración global",
+      "fecha": "09/05/2023",
+      "valor": 6.66666666666667
+    }
+  ]
+}
